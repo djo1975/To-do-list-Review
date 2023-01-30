@@ -2,7 +2,7 @@
 
 <div>
 
-  <h1><b>To Do list: interactive list</b></h1><br/><br/>
+  <h1><b>Does my coding partner follow JS best practices?</b></h1><br/><br/>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 # 📖 To Do list: interactive list <a name="about-project"></a>
 
-** To Do list: interactive list** In this project, you will add some functionality to your application to make it interactive. The user will also be able to mark task completion by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in local storage.
+** In the "Better communication in code reviews" lesson, you have read and think a lot about the quality of your code and communication in code reviews. Now it is time for you to perform a code review for your partner! We asked Code Reviewers to ignore any issues related to best practices or clean code rules during their reviews. Because of that, now you can find all of them by yourself.
 
 ## 🛠 Built With <a name="built-with"></a>
 
